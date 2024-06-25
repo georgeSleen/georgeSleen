@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Sleen!
-- 👀 I’m interested in digital logic, quantum mechanics, and UBC's submarine design team SUBC!
+- 👀 I’m interested in electronics, UBC's submarine design team SUBC, and quantum mechanics!
 - 🌱 I’m currently studying at the University of British Columbia, pursuing a degree in Engineering Physics.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently learning to play the piano!
